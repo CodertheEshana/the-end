@@ -1,3 +1,1 @@
-# THE-END-project
-link below:-
-https://prasun-kumar-biswas4480.github.io/c-39/
+output link https://codertheeshana.github.io/the-end/index.html
